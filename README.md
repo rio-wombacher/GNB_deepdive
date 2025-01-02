@@ -11,7 +11,7 @@ To recreate our conda environment, you can use the `gnb.yml` file with the follo
 You should now be able to run `src/gaussiannaivebayes.ipynb`.
 
 ## Authors
-Roshan Parikh (roshan@brown.edu), Rio Wombacher (rio_wombacher@brown.edu), Danielle Whisnant (danielle_whisnant@brown.edu), Wali Siddiqui (wali_siddiqui@brown.edu)
+Rio Wombacher (rio_wombacher@brown.edu), Roshan Parikh (roshan@brown.edu), Danielle Whisnant (danielle_whisnant@brown.edu), Wali Siddiqui (wali_siddiqui@brown.edu)
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
